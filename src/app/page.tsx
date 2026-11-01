@@ -5,6 +5,7 @@ import { MenuSection } from "@/components/sections/MenuSection";
 import { FranchiseSection } from "@/components/sections/FranchiseSection";
 import { EventsSection } from "@/components/sections/EventsSection";
 import { VisitSection } from "@/components/sections/VisitSection";
+import { InstagramSection } from "@/components/sections/InstagramSection";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <FranchiseSection />
       <EventsSection />
       <VisitSection />
+      <InstagramSection />
     </main>
   );
 }

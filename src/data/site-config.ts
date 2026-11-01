@@ -66,12 +66,23 @@ export const siteConfig = {
   ],
 
   navLinks: [
-    { label: "Home", href: "/#home" },
-    { label: "Our Menu", href: "/#menu" },
-    { label: "Our Story", href: "/#story" },
-    { label: "Franchise", href: "/#franchise" },
-    { label: "Events", href: "/#events" },
-    { label: "Visit Us", href: "/#visit" },
+    { label: "Home", href: "/" },
+    { label: "Our Menu", href: "/menu" },
+    { label: "About", href: "/about" },
+    { label: "Gallery", href: "/gallery" },
+    { label: "Visit Us", href: "/visit-us" },
+    { label: "Contact", href: "/contact" },
+  ],
+
+  footerLinks: [
+    { label: "Home", href: "/" },
+    { label: "Our Menu", href: "/menu" },
+    { label: "Our Story", href: "/about" },
+    { label: "Gallery", href: "/gallery" },
+    { label: "Franchise", href: "/franchise" },
+    { label: "Events", href: "/events" },
+    { label: "Visit Us", href: "/visit-us" },
+    { label: "Contact", href: "/contact" },
   ],
 } as const;
 

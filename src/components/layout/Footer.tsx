@@ -25,7 +25,7 @@ export function Footer() {
             aria-label="Footer navigation"
             className="flex flex-wrap gap-5 md:gap-6 text-[11px] text-[#e2d4c8]"
           >
-            {siteConfig.navLinks.map((link) => (
+            {siteConfig.footerLinks.map((link) => (
               <Link
                 key={link.label}
                 href={link.href}
