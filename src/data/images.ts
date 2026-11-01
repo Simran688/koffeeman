@@ -14,6 +14,10 @@ export const heroImages = {
   coffee: "/images/hero/hero-coffee.jpg",
 } as const;
 
+export const storyImages = {
+  founder: "/images/menu/shakes/shake.jpg",
+} as const;
+
 export const menuImages = {
   coffee: "/images/menu/coffee/coffee.jpg",
   shakes: "/images/menu/shakes/shake.jpg",

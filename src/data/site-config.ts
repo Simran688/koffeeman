@@ -18,6 +18,16 @@ export const siteConfig = {
   founder: {
     name: "Rohit Chhabra",
     firstFranchiseYear: "2022",
+    kicker: "A note from our founder",
+    heading: "Hi, I'm Rohit Chhabra.",
+    paragraphs: [
+      "KoffeeMan began with a simple idea: I wanted to serve premium-quality coffee, with a variety people could genuinely enjoy. I started with a roadside van, taking that idea to people one cup at a time.",
+      "As more people connected with the idea, we took an important next step and opened our first franchise in 2022.",
+      "The heart of KoffeeMan is still the same: quality coffee, plenty of choice, and a welcoming place for every kind of craving. Thank you for being part of this journey.",
+    ],
+    signOff: "See you over a cup,",
+    signature: "Rohit",
+    photoTag: "From a roadside van to our first franchise.",
   },
 
   contact: {
