@@ -2,6 +2,7 @@ import { Hero } from "@/components/sections/Hero";
 import { TrustStrip } from "@/components/sections/TrustStrip";
 import { FounderStory } from "@/components/sections/FounderStory";
 import { MenuSection } from "@/components/sections/MenuSection";
+import { FranchiseSection } from "@/components/sections/FranchiseSection";
 import { OrderingSection } from "@/components/sections/OrderingSection";
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <TrustStrip />
       <FounderStory />
       <MenuSection />
+      <FranchiseSection />
       <OrderingSection />
     </main>
   );
