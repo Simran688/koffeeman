@@ -4,7 +4,7 @@ import { FounderStory } from "@/components/sections/FounderStory";
 import { MenuSection } from "@/components/sections/MenuSection";
 import { FranchiseSection } from "@/components/sections/FranchiseSection";
 import { EventsSection } from "@/components/sections/EventsSection";
-import { OrderingSection } from "@/components/sections/OrderingSection";
+import { VisitSection } from "@/components/sections/VisitSection";
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
       <MenuSection />
       <FranchiseSection />
       <EventsSection />
-      <OrderingSection />
+      <VisitSection />
     </main>
   );
 }
