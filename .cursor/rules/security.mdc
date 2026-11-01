@@ -1,0 +1,8 @@
+---
+description: v1 security and privacy constraints for the public café site
+alwaysApply: true
+---
+
+# Security
+
+No auth, payments, databases, server actions, or API routes in v1. No secrets in git or `NEXT_PUBLIC_*`. Do not collect personal data. Validate external URLs against `src/data/site-config.ts` once it exists. New-tab links need `rel="noopener noreferrer"`. Avoid `dangerouslySetInnerHTML`.

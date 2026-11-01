@@ -1,0 +1,8 @@
+---
+description: Human approval required before git commit, merge, push, or deploy
+alwaysApply: true
+---
+
+# Git approval
+
+Do not stage, commit, merge, push, or deploy until the user uses an explicit phrase such as `APPROVE FEATURE 00 — COMMIT AND MERGE`. Approval to review is not approval to commit. Stage files by path. Conventional Commits. Never force-push main.

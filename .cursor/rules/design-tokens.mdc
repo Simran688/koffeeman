@@ -1,0 +1,9 @@
+---
+description: KoffeeMan Modern Vintage Café design tokens
+globs: src/**/*.{ts,tsx,css}
+alwaysApply: false
+---
+
+# Design tokens
+
+Use CSS variables from the prototype. Cream `#F4E4CA` page background, paper `#FFF8EE` cards, espresso `#392929` text/dark bands, coffee brown `#7F5738` actions, gold `#D6B66C` sparingly. Do not introduce Starbucks green, Tim Hortons red, or Cascara identity. Preserve the original logo; do not crop it into an unreadable shape.

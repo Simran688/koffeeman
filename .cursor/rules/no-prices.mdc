@@ -1,0 +1,8 @@
+---
+description: Never publish menu prices, rates, or currency on the KoffeeMan site
+alwaysApply: true
+---
+
+# No prices
+
+Do not add prices, rates, currency symbols (₹, Rs, INR, $, €), "from ₹", or a `price` field to menu data, components, metadata, alt text, or hidden UI. Product catalogues are names only. Run `npm run audit:prices` before presenting a feature.
