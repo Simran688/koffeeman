@@ -9,7 +9,7 @@ export const franchiseData = {
   title: "Own a KoffeeMan Franchise",
   copy: "Have a passion for coffee and a dream of building something of your own? Let's talk about bringing KoffeeMan to your city. Connect with us to discuss the opportunity, your location and the next steps.",
   note: "Start a conversation with our team. Franchise details can be discussed directly.",
-  ctaText: "Contact Us · 9811161923",
+  ctaText: "Contact Us",
 
   points: [
     {

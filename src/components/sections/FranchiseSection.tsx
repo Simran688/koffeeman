@@ -33,7 +33,7 @@ export function FranchiseSection() {
             <Button
               variant="gold"
               href={siteConfig.contact.primaryPhoneTel}
-              aria-label="Contact Us · 9811161923"
+              aria-label={franchiseData.ctaText}
             >
               {franchiseData.ctaText}
             </Button>

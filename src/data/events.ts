@@ -10,7 +10,7 @@ export const eventsData = {
   title: "Make your moments memorable.",
   copy: "Bring KoffeeMan to your celebration. Tell us about your occasion and call us to discuss the details.",
   subtext: "Weddings · Parties · Festive · Cultural · College",
-  ctaText: "Call to Enquire · 9811161923",
+  ctaText: "Call to Enquire",
 
   items: [
     {
