@@ -3,6 +3,7 @@ import { TrustStrip } from "@/components/sections/TrustStrip";
 import { FounderStory } from "@/components/sections/FounderStory";
 import { MenuSection } from "@/components/sections/MenuSection";
 import { FranchiseSection } from "@/components/sections/FranchiseSection";
+import { EventsSection } from "@/components/sections/EventsSection";
 import { OrderingSection } from "@/components/sections/OrderingSection";
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <FounderStory />
       <MenuSection />
       <FranchiseSection />
+      <EventsSection />
       <OrderingSection />
     </main>
   );
