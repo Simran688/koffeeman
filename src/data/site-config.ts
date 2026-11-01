@@ -6,6 +6,7 @@
  */
 
 export const siteConfig = {
+  siteUrl: "https://koffeeman.in",
   brandName: "Koffee Man",
   brandAltName: "KoffeeMan",
   tagline: "Life happens. Koffee helps.",
